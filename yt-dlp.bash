@@ -65,7 +65,7 @@ case $option in
 	*)
 		echo 'Unknown option!'
 	;;
-	
+
 esac
 
 termux-wake-unlock
